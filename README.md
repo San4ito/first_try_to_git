@@ -1,2 +1,2 @@
 # Первый репо
-Не первая попытка использования гита
+Для компиляции использовать библиотеки SFML: libsfml-graphics.so, libsfml-system.so, libsfml-window.so
