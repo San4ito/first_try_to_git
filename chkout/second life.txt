@@ -1,4 +1,0 @@
-TODO:
- - Create project
- - Compile project
- - Delete old versions
